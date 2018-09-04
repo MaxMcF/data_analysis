@@ -8,6 +8,8 @@ jupyter = "*"
 ipython = "*"
 numpy = "*"
 pandas = "*"
+requests = "*"
+plotly = "*"
 
 [dev-packages]
 
