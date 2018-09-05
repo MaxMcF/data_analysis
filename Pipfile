@@ -10,6 +10,9 @@ numpy = "*"
 pandas = "*"
 requests = "*"
 plotly = "*"
+scipy = "*"
+scikit-learn = "*"
+matplotlib = "*"
 
 [dev-packages]
 
